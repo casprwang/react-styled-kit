@@ -1,2 +1,3 @@
 # styled-ui-kit
-styled components ui starter
+> Song’s styled components ui starter
+

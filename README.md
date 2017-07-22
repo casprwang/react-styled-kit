@@ -1,3 +1,3 @@
-# styled-ui-kit
+# react-styled-kit
 > Song’s styled components ui starter
 

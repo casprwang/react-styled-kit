@@ -1,9 +1,9 @@
 {
-  "name": "styled-ui-kit",
+  "name": "react-styled-kit",
   "version": "1.0.0",
   "description": "Song's ui kit for React built with styled components",
   "main": "index.js",
-  "repository": "https://github.com/wangsongiam/styled-ui-kit",
+  "repository": "https://github.com/wangsongiam/react-styled-kit",
   "author": "Song Wang",
   "license": "MIT",
   "files": [
